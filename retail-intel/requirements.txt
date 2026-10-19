@@ -1,0 +1,9 @@
+opencv-python-headless
+ultralytics
+fastapi
+sqlalchemy
+psycopg2-binary
+email-validator
+python-dotenv
+pytest
+pytest-asyncio
